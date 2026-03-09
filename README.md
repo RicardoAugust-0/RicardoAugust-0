@@ -1,3 +1,6 @@
+![Header](./github-header-banner.png)
+
+
 # 💫 About Me:
 🔭 I’m currently working on:<br>Improving my skills in web development using JavaScript, Node.js, and working on small personal projects.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects or beginner-friendly projects where I can contribute and learn more about backend and frontend development.<br><br>🤝 I’m looking for help with:<br>Learning best practices in software development and improving my code structure and logic.<br><br>🌱 I’m currently learning:<br>JavaScript, Node.js, Git/GitHub, and how to build full-stack applications.<br><br>💬 Ask me about:<br>Basic programming concepts, web development, or anything related to learning code as a student.<br><br>⚡ Fun fact:<br>I love technology, music, and helping my church's media team with multimedia and tech support.
 

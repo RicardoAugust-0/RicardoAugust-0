@@ -154,6 +154,6 @@ CRM completo para otimização de processos de prospecção. Inclui sistema de a
 
 **"Cada expert já foi um iniciante. Continue construindo."** 🚀
 
-*Crafted with ❤️ by Ricardo Augusto · Paulínia, SP · Brasil*
+* By Ricardo Augusto · Paulínia, SP · Brasil*
 
 </div>

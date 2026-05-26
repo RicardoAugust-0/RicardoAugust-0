@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=RicardoAugust-0&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Gerar card de linguagens
         uses: readme-tools/github-readme-stats-action@v1
@@ -28,7 +28,7 @@ jobs:
           card: top-langs
           options: username=RicardoAugust-0&theme=synthwave&hide_border=true&layout=compact&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit dos SVGs gerados
         run: |

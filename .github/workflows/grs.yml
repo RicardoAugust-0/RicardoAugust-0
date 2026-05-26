@@ -18,6 +18,8 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
+          # Troque github-readme-stats-ricardo.vercel.app pela URL do seu deploy no Vercel (ex: meu-stats.vercel.app)
+          api_domain: github-readme-stats-ricardo.vercel.app
           options: username=RicardoAugust-0&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
@@ -26,7 +28,9 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=RicardoAugust-0&theme=synthwave&hide_border=true&layout=compact&langs_count=8
+          # Troque github-readme-stats-ricardo.vercel.app pela URL do seu deploy no Vercel (ex: meu-stats.vercel.app)
+          api_domain: github-readme-stats-ricardo.vercel.app
+          options: username=RicardoAugust-0&theme=synthwave&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
